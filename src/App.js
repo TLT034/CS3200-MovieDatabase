@@ -38,7 +38,7 @@ const BrowseStack = createStackNavigator(
 
             navigationOptions: ({ navigation }) => ({
                 headerBackTitleVisible: true,
-                headerTitle: 'Results',
+                headerTitle: 'Browse',
                 headerBackTitle: 'Browse'
             }) 
         },
@@ -62,7 +62,7 @@ const SearchStack = createStackNavigator(
 
             navigationOptions: ({ navigation }) => ({
                 headerBackTitleVisible: true,
-                headerTitle: 'Results',
+                headerTitle: 'Search',
                 headerBackTitle: 'Browse'
             })
         },

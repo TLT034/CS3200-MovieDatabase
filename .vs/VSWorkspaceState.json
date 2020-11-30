@@ -2,13 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\android",
-    "\\android\\app",
-    "\\android\\app\\src",
-    "\\android\\app\\src\\main",
-    "\\android\\app\\src\\main\\java",
-    "\\android\\app\\src\\main\\java\\com",
-    "\\android\\app\\src\\main\\java\\com\\thomastristanassn4android"
+    "\\src",
+    "\\src\\components",
+    "\\src\\models",
+    "\\src\\screens",
+    "\\src\\services",
+    "\\src\\style"
   ],
-  "SelectedNode": "\\android\\app\\src\\main\\java\\com\\thomastristanassn4android\\MainApplication.java",
+  "SelectedNode": "\\src\\screens\\SearchScreen.js",
   "PreviewInSolutionExplorer": false
 }
